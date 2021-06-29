@@ -1,0 +1,14 @@
+{
+  "name": "salim",
+  "version": "1.0.0",
+  "description": "Landing page for trallo",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

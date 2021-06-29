@@ -1,0 +1,19 @@
+{
+  "name": "salim",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass sass/main.scss css/style.css -w",
+    "compile:sass": "sass sass/main.scss css/style.comp.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "node-sass": "^6.0.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
